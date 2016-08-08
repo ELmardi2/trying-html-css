@@ -1,0 +1,49 @@
+.all{background: white;
+}
+.header{
+	background :gray;
+height: 90px;
+}
+.header #header-l{ background: yellow;
+	 height: 90px;
+width: 50%;
+float:  left;
+}
+  .header  #header-r{ background: green;
+	width: 50%;
+	height: 90px;
+	float: right;
+}
+.container-m{
+	background: red;
+	height: 400px;
+}
+#navigation{
+	background: pink;
+width: 20%;
+height: 200px;
+float: left;
+}
+ #content{
+	background :green;
+width: 80%;
+height: 200px;
+float: right;
+}
+.footer{
+	height: 100;
+display: flex;
+}
+  #footer-l{
+	height: 100; background: brown;
+	width: 40%;
+	display: flex;
+	float: left;
+}
+.footer #footer-r{
+	height: 100; background:#80ffff;
+	width: 60%;
+	display: flex;
+	text-align: center;
+	float: right;
+}

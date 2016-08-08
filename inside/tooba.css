@@ -1,0 +1,40 @@
+.container-fluid{ background: Aqua;
+}
+.wrapper{
+	 height:250px;
+	background-color: #ffccdd;
+	border-style:  black  solid;
+}
+.bannar{
+	 height: 220px;
+	background-color: red;
+}
+.menutop{
+	height:40px;
+	background-color:#d147a3;
+}
+.rows{
+	height: 89px;
+	background-color: gray;
+}
+.col-lg-12{
+	height: 80px;
+	background-color: green;
+}
+.rows{
+	background-color: blue; height: 80px;
+}
+.col-md-4{
+	background: DarkViolet;
+	height: 400px;
+}
+.col-md-8{
+	background: red;
+	height: 400px;
+}
+.co-lg-12{background: pink; height: 200px;}
+.footer{
+	height: 100px;
+	background: #4dff4d;
+	 clear: both;
+}
